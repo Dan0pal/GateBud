@@ -32,14 +32,5 @@ The assistant communicates naturally, allowing workers to keep both hands free w
 
 ---
 
-### 🌍 Impact for gategroup
-By integrating GateBud, gategroup could achieve:
-- Up to **80% fewer product placement errors**.  
-- **30–40% faster tray assembly times**.  
-- Consistent compliance with each airline’s alcohol handling policies.  
-- A **data-driven insight system** for operational improvement and staff training.
-
----
-
 ### 🧭 Vision
 GateBud is a first step toward **intelligent catering operations**, where AI assistants support human workers in ensuring quality, compliance, and efficiency across all gategroup facilities worldwide.
