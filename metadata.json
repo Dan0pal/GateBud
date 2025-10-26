@@ -1,0 +1,7 @@
+{
+  "name": "Gate Bud",
+  "description": "A real-time voice conversation app powered by the Gemini 2.5 Native Audio (Live API). Have a natural, voice-only conversation with Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
