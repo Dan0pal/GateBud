@@ -34,3 +34,32 @@ The assistant communicates naturally, allowing workers to keep both hands free w
 
 ### 🧭 Vision
 GateBud is a first step toward **intelligent catering operations**, where AI assistants support human workers in ensuring quality, compliance, and efficiency across all gategroup facilities worldwide.
+## 🚀 How to Run the Project
+
+Follow these steps to set up and run **GateBud** locally on your machine.
+
+---
+
+### 🧰 Prerequisites
+Make sure you have the following installed:
+
+- **Node.js** (v18 or higher)  
+- **npm** or **yarn** package manager  
+- A valid **Gemini API key** from [Google AI Studio](https://aistudio.google.com/)  
+- (Optional) **Vite** globally installed for faster local dev environment
+
+---
+
+### ⚙️ Environment Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/<your-username>/GateBud.git
+   cd GateBud
+2. **Instal dependencies**
+   npm install
+3. **Set up your environment variables**
+   Create a file named .env in the project root and add the following:
+   VITE_GEMINI_API_KEY=your_gemini_api_key_here
+4. **Run the app in development mode**
+   npm run dev
